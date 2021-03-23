@@ -5,9 +5,9 @@
 + En apache2.conf CAMBIAR el document root /var/www/ AllowOverride None -> a AllowOverride All
 
 ## Instalación requerida
-+ [Instalar Laravel 8.0]:[laravel]
-+ [Instalar composer]: [composer]
-+ [Instalar node y npm]:[node]
++ Instalar Laravel 8.0:[laravel]
++ Instalar composer: [composer]
++ Instalar node y npm:[node]
 
 ## Luego de clonar ir a /directorio_proyecto/ 
 + composer install 
