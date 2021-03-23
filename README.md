@@ -5,9 +5,9 @@
 + En apache2.conf CAMBIAR el document root /var/www/ AllowOverride None -> a AllowOverride All
 
 ## Instalación requerida
-+ Instalar Laravel 8.0 : [laravel]
-+ Instalar composer : [composer]
-+ Instalar node y npm : [node]
++ Instalar [laravel] 8.0 
++ Instalar [Composer]
++ Instalar [node]
 
 ## Luego de clonar ir a /directorio_proyecto/ 
 + composer install 
@@ -23,6 +23,6 @@
 ## Solución a error de fsevents
 + npm i fsevents@latest -f --save-optional
 
-[Link]: https://laravel.com/docs/8.x/installation
-[Link]: https://getcomposer.org/download/
-[Link]: https://nodejs.org/es/download/
+[Laravel]: https://laravel.com/docs/8.x/installation
+[Composer]: https://getcomposer.org/download/
+[node]: https://nodejs.org/es/download/
